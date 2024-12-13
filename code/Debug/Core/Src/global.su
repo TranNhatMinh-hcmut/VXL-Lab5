@@ -1,0 +1,2 @@
+global.c:26:6:clear_buffer	24	static
+global.c:31:6:HAL_UART_RxCpltCallback	16	static
